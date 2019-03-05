@@ -1,3 +1,5 @@
+# comment on array
+
 a = [1, 2, 3, 5]
 print(a)
 
@@ -10,6 +12,8 @@ c = (1, 2, 3, 54)
 
 print(c)
 
+
+# commenting on func
 
 def my_func(a,  # value of a
             b,  # value of b
